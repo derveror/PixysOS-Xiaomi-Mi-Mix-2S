@@ -2,11 +2,14 @@
 
 * 3 finger screenshot
 * long press music control
+* Link to Windows integration
+* force full screen
+* Face unlock
 * smart space
 * new gen assistant
-* 90fps in pubg and simliar apps
 * Bt battery level on statusbar
 * monet theme engine with customisation
+* Battery health info
 * unlimited original quality backup on photos
 * AOD,cafeine,sound search, batteryshare, data switch and headsup qs tiles
 * gesture bar length customisation with hide
@@ -31,19 +34,15 @@
 * App lock
 * incall vibrations
 * vpn for hotspot
-* force full screen
-* Face unlock
 * suppress notifications sound/vibration if screen is ON
 * Integrated Google Lens into Screenshot UI
 * pocket judge to prevent accidental wake up
 * Wifi/Bt auto turn off
 * Live translate
-* Battery health info
 * Pixel-inspired adaptive charging control
 * Cinematic Wallpapers
 * AI generated Wallpapers
 * AI Magic eraser in Google Photos
 * Hold the navbar/circle to search
-* Link to Windows integration
 * Built-in ad blocker
 * Photo picker with cloud media integration

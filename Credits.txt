@@ -1,0 +1,14 @@
+#Credits from xda template by PixysOS
+(https://github.com/PixysOS/Pixys_doc/blob/7cf0dbb3b25d26673dfff004d682bec2894325a8/XDA_ThreadTemplate#L112-L123)
+
+- Google for AOSP
+- Pixel experience
+- LineageOS
+- Superior OS
+- Statix OS
+- YAAP
+- Krypton AOSP
+- Project-Kaleidoscope
+- AOSPA
+- AICP & POSP Team for thread template idea
+- Also many pro developers who all help us to bring this rom to you..

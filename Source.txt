@@ -11,5 +11,3 @@ https://github.com/TheMuppets/proprietary_vendor_xiaomi_polaris
 https://github.com/crdroidandroid/android_kernel_xiaomi_sdm845/tree/14.0
 
 https://github.com/LineageOS/android_hardware_xiaomi
-
-https://github.com/Evolution-X/hardware_xiaomi

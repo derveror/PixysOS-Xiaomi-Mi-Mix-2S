@@ -1,4 +1,4 @@
-# CLOSED
+# CLOSED no more updates
 
 ![2okPze5](https://raw.githubusercontent.com/PixysOS/Pixys_doc/twelve/twelve-stuff/pixys_banner.png)
 
